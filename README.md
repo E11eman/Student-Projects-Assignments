@@ -1,2 +1,2 @@
 # Student-Projects-Assignments
-Zip file containing all of my OTC Student Projects and assignments
+If you look in the tags, you will see a pre-releases with all the zip files from my courses, projects, and assignments from OTC.
